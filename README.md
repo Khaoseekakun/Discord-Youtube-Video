@@ -1,7 +1,8 @@
 # Sinsamuth Discord Bot
 
 โปรเจคนี้สร้างขึ้นมาเพื่อเป็นคลิปวิดีโอในการสอนใช้งานบอทดิสคอร์ดในภาษา JavaScript ด้วย Discord.js
-
+## Lavalink Download
+โหลด [Lavalink](https://github.com/Cog-Creators/Lavalink-Jars/releases)
 ## วิธีการติดตั้งโมดูล
 
 เราใช้ [Node.js V16+](https://nodejs.org/en/) ในการติดตั้ง
